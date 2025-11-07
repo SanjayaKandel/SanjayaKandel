@@ -44,8 +44,8 @@ me.say_hi()
 🌍 **Future Academic Goals** - Actively seeking **Master's degree opportunities in Cybersecurity** at international universities  
 🌱 **Lifelong Learner** - Constantly evolving with emerging technologies and industry best practices  
 🚀 **Innovation-Driven** - Passionate about creating secure, scalable web solutions and exploring cutting-edge security methodologies  
----
 
+---
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
