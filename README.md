@@ -5,9 +5,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Django+%7C+Python+Expert;Cybersecurity+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayakandel)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayakandel) -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayaKandel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayakandel@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaykc375@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sanjayakandel.com.np/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SpikeyHoraa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjay_kshetri_17/)
 
 </div>
 
@@ -35,8 +38,9 @@ me.say_hi()
 ```
 
 🎓 **Fresh BSc.IT Graduate** from Baglung District, Nepal  
-💻 **Passionate Web Developer** with expertise in full-stack development  
-🔒 **Cybersecurity Enthusiast** exploring ethical hacking and security protocols  
+💻 **Experienced Web Developer** with 3 months Django full-stack internship  
+🔒 **Certified Cybersecurity Professional** - Cisco Cybersecurity Essentials  
+🌍 **Aspiring Graduate Student** seeking Master's in Cybersecurity abroad  
 🌱 **Continuous Learner** always adapting to new technologies  
 
 ---
@@ -62,6 +66,10 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🏅 Certifications
+![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Full_Stack_Intern-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
@@ -146,11 +154,11 @@ graph TD
 
 <div align="center">
 
-| 🎓 **Education** | 🏅 **Certifications** | 🚀 **Projects** |
+| 🎓 **Education** | 🏅 **Certifications** | 💼 **Experience** |
 |:---:|:---:|:---:|
-| BSc.IT Graduate | Web Development | 5+ Completed |
-| Baglung District | Cybersecurity Basics | 3+ In Progress |
-| Nepal 🇳🇵 | Python Programming | 10+ Repositories |
+| BSc.IT Graduate | Cisco Cybersecurity Essentials | 3 Months Django Internship |
+| Baglung District, Nepal 🇳🇵 | Web Development Certified | Full-Stack Development |
+| Seeking Master's Abroad | Python Programming | 5+ Projects Completed |
 
 </div>
 
@@ -169,24 +177,30 @@ graph TD
 <div align="center">
 
 ```yaml
-Current_Projects:
-  - name: "Advanced Django Applications"
-    status: "In Progress"
-    focus: ["Performance Optimization", "Security Hardening"]
-  
-  - name: "Cybersecurity Learning Path"
+Current_Focus:
+  - name: "Master's Degree Application"
     status: "Active"
-    focus: ["Ethical Hacking", "Penetration Testing", "Security Auditing"]
+    focus: ["Cybersecurity Programs Abroad", "University Research", "Application Prep"]
   
-  - name: "Open Source Contributions"
-    status: "Planning"
-    focus: ["Django Packages", "Security Tools"]
+  - name: "Advanced Cybersecurity Skills"
+    status: "In Progress"
+    focus: ["Building on Cisco Certification", "Ethical Hacking", "Penetration Testing"]
+  
+  - name: "Professional Development"
+    status: "Ongoing"
+    focus: ["Django Expertise from Internship", "Full-Stack Projects", "Open Source"]
 
-Learning_Goals_2024:
-  - "Advanced Django & DRF"
-  - "Kubernetes & Docker"
-  - "Ethical Hacking Certification"
-  - "Cloud Security (AWS/Azure)"
+Recent_Achievements:
+  - "✅ Cisco Cybersecurity Essentials Certificate"
+  - "✅ 3 Months Django Full-Stack Internship Completed"
+  - "✅ Chautari Social Platform - Major Project"
+  - "🎯 Researching Master's Programs in Cybersecurity"
+
+Next_Goals_2025:
+  - "🎓 Secure admission to Master's program abroad"
+  - "🔒 Advanced Cybersecurity Certifications (CEH/CISSP)"
+  - "☁️ Cloud Security Specialization"
+  - "🌐 Contribute to Open Source Security Projects"
 ```
 
 </div>
@@ -206,9 +220,11 @@ Learning_Goals_2024:
 <img src="https://komarev.com/ghpvc/?username=SanjayaKandel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ### 📫 Reach out to me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanjayakandel)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sanjayakandel@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SanjayaKandel)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sanjaykc375@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=todoist)](https://sanjayakandel.github.io)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://facebook.com/sanjayakandel)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://instagram.com/sanjayakandel)
 
 </div>
 
