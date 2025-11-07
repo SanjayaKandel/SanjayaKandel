@@ -37,12 +37,13 @@ me = SanjayaKandel()
 me.say_hi()
 ```
 
-🎓 **Fresh BSc.IT Graduate** from Baglung District, Nepal  
-💻 **Experienced Web Developer** with 3 months Django full-stack internship  
-🔒 **Certified Cybersecurity Professional** - Cisco Cybersecurity Essentials  
-🌍 **Aspiring Graduate Student** seeking Master's in Cybersecurity abroad  
-🌱 **Continuous Learner** always adapting to new technologies  
-
+🎓 **Fresh BSc.IT Graduate** from **Infomax College of IT and Management**, Ranipauwa, Pokhara, Nepal  
+🏫 **Academic Partnership** with **Asia Pacific University of Technology & Innovation** (APU) - International Degree Recognition  
+💻 **Professional Web Developer** with **3 months intensive Django full-stack development internship**  
+🔒 **Cisco Certified Cybersecurity Professional** - **Cybersecurity Essentials Certificate** holder  
+🌍 **Future Academic Goals** - Actively seeking **Master's degree opportunities in Cybersecurity** at international universities  
+🌱 **Lifelong Learner** - Constantly evolving with emerging technologies and industry best practices  
+🚀 **Innovation-Driven** - Passionate about creating secure, scalable web solutions and exploring cutting-edge security methodologies  
 ---
 
 ## 🛠️ Tech Stack & Skills
